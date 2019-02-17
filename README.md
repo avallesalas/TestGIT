@@ -1,7 +1,6 @@
 # TestGIT
 Just Testing
 
-This is a new Test
-
-This is a test in branch Avalle
+Now this is what it shows
+Testing with my VS-Code :-D
 
